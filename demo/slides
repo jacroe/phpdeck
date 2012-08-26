@@ -1,0 +1,46 @@
+Testing deck.js with PHP and Markdown
+Jacob Roeland
+swiss
+fade
+
+
+A List of Things I like
+-----------------------
+### Cupcakes
+  They're tasty, but don't eat too many or you'll get fat!
+### Technology
+  It's tasty, but don't eat too much technology...or any technology...because it's not food.
+### Slankets
+  They catch all of your cupcake and technology crumbs. 
+
+
+* * *
+
+Random Photo of the White House
+-------------------------------
+![Random photo of the White House](http://thumbthumbthumb.appspot.com/t?image_url=http://sc94.ameslab.gov/TOUR/whitehouse.gif&amp;width=600 "White House")
+
+* * *
+
+## Blockquote
+> Hello this is a huge block of text.
+>
+> Isn't this fun?
+>
+><cite>Jacob</cite>
+
+* * *
+
+A Nice List
+---------------
+### Woo list time!
+* One
+* Too
+* 3
+* Fore
+* Five
+
+* * *
+
+*Fin*
+===== 
