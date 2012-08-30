@@ -5,11 +5,7 @@ Creating a slideshow is easy with PHPDeck
 1.	Create a folder with a short title of the presentation. You'll use this in the URL. 
 2.	Create your presentation using Markdown and save it in a file named "slides". You can use the demo presenation and Daring Fireball's Syntax page <http://daringfireball.net/projects/markdown/syntax> to see what you can do. 
 3.	Use three asterisks (* * *) to start a new slide. 
-4.	Add metadata to the top of the file. Example:  
-```Author  
-Title  
-Design template  
-Slide transition type```
+4.	Add metadata to the top of the file. See the demo slides for example.
 5.	Navigate to the web directory where PHPdeck is installed and append "?d={FolderName}" to view your presentation.
 
 Acknowledgements
